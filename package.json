@@ -1,7 +1,7 @@
 {
   "name": "hpc-web3",
   "namespace": "hyperchain",
-  "version": "0.1.10-alpha",
+  "version": "0.1.11-alpha",
   "description": "Hyperchain JavaScript API, middleware to talk to a hyperchain node over RPC",
   "main": "./index.js",
   "directories": {
